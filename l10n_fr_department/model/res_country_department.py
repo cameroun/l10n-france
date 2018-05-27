@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # © 2013-2016 GRAP (http://www.grap.coop)
 # © 2015-2016 Akretion (http://www.akretion.com)
 # @author Sylvain LE GAL (https://twitter.com/legalsylvain)
